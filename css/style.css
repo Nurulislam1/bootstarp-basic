@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.first-img{
+	width: 100%;
+    padding: 14px;
+    height: 600px;
+}
+h1.hadin{
+	text-align: center;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section{
+	padding: 60px 0;
+}
+.aboutimg{
+	width: 100%;
+	float: right;
+}
+
+
+.tutorial{
+	padding: 20px 10px;
+}
+.imgpart{
+	max-width: 100%;
+}
+img{
+	margin-top: -78px;
+}
+.marker{
+	font-family: sans-serif;
+}
+.btn{
+	text-align: center;
+}
